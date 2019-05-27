@@ -13,7 +13,7 @@ int main()
         {
             times = 1;
             preWord = word;
-            continue;  // different from [break].
+            continue;  // different from /* break; */.
         }
         times += 1;
         preWord = word;
