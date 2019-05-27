@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -22,23 +21,17 @@ int main()
             default:
                 break;
         }
-
+        /*
         if(n)
         {
             int tmp;
-        
         }
         else 
         {
             tmp = 22;
             cout << tmp << endl;
-        
         }
-
-
-
-
+        */
     }
-
     return 0;
 }
