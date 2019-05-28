@@ -20,7 +20,7 @@ bool isPrefix(vector<int> const& obj1, vector<int> const& obj2)
 
 int main()
 {
-    vector<int> obj1 = {0, 1, 1, 2};
+    vector<int> obj1 = {0, 1, 1, 3};
     vector<int> obj2 = {0, 1, 1, 2, 3, 5, 8};
 
     cout << (isPrefix(obj1, obj2) ? "yes" : "no") << endl;
