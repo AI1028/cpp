@@ -1,4 +1,4 @@
 # c++
 *.obj
 *.exe
-# ./*[!cpp]        it's wrong.
+!*.cpp
